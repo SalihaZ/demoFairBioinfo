@@ -1,4 +1,3 @@
-# demoFairBioinfo
 # Tools for Reproducible Research
 
 **Important: This repo is an example and does not have the data to make it work.**
